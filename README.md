@@ -47,3 +47,15 @@ Welcome to the JavaScript-Projects! This project provides a collection of useful
 2. Enter your dataset, separating values with commas.
 3. Click "Calculate" to obtain mean, mode, median, and range.
 
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For any questions or feedback, feel free to reach out to Technedict at technedict@gmail.com.
+
+Happy coding! 🚀
+
+
